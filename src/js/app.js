@@ -1,5 +1,5 @@
 // Reemplaza tu API key aquí
-const apiKey = '';
+const apiKey = 'AIzaSyAcd-8GMR2OKSYRdTXIlqx33aJ3p0Nu9wA';
 
 function formatText(text) {
     // Reemplazar **Texto** por <strong>Texto</strong>
